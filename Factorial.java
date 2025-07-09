@@ -8,7 +8,6 @@ public class Factorial {
         if(num != 1)
         {
             System.out.println("YES");
-            System.out.println("YES");
         }
         else
         {
