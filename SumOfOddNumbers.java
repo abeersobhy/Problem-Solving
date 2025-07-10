@@ -9,7 +9,7 @@ public class SumOfOddNumbers {
         arr = new long[NumOfTestCases][2];
         long[] sum;
         sum = new long[NumOfTestCases];
-
+        /*Scann the test cases.*/
         for (int i = 0; i < NumOfTestCases ; i++)
         {
             for(int k = 0; k < 2; k++)
@@ -17,7 +17,7 @@ public class SumOfOddNumbers {
                 arr[i][k] = in.nextLong();
             }
         }
-
+        /*Check and sum the odd numbers*/
         for (int i = 0; i < NumOfTestCases ; i++)
         {
             for(long j = (Math.min(arr[i][0], arr[i][1])) + 1 ; j < (Math.max(arr[i][0], arr[i][1])); j++)
