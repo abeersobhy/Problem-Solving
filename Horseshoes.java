@@ -18,6 +18,7 @@ public class Horseshoes {
         {
             for (int k = i+1; k < 4; k++)
             {
+                /*The color repeated and we did not search it before*/
                 if((colors[i] == colors[k]) && (colorFlags[i] == false))
                 {
                     colorFlags[i] = true;
