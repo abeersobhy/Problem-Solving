@@ -17,9 +17,6 @@ public class Coins {
         int maxB = 0;
         int maxC = 0;
 
-        char bigger;
-        char smaller;
-
         for (int i = 0; i < 3; i++)
         {
             if (relation[i].charAt(1) == '>')
