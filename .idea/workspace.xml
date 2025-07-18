@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd657fae-9b30-41f5-a489-e9f91e24ded6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Horseshoes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/Horseshoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/Horseshoes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,22 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "abeersobhy"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;abeersobhy&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://abeersobhy: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@github.com/abeersobhy/Problem-Solving.git",
-    "accountId": "4c6065d5-eb45-4bd8-81e4-3894f075471e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abeersobhy/Problem-Solving&quot;,
+    &quot;accountId&quot;: &quot;4c6065d5-eb45-4bd8-81e4-3894f075471e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2zxGS42szYkplDh02HUrlhpCDsU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,10 +47,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Coins.executor": "Run",
+    "Application.EasyProblem.executor": "Run",
     "Application.GeorgeAndAccommodation.executor": "Run",
     "Application.Horseshoes.executor": "Run",
+    "Application.Hulk.executor": "Run",
+    "Application.RegularBracketSequence.executor": "Run",
+    "Application.SuffixThree.executor": "Run",
+    "Application.wayTooLongWords.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
@@ -63,5 +71,20 @@
       <updated>1752665309013</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SuffixThree.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
