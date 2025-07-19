@@ -11,29 +11,28 @@ public class AnotherOneBitesTheDust
 
         long length = 0;
 
-        if((numOfab != 0) && (numOfa != 0))
+        if(numOfa == numOfb)
         {
-            length = (numOfab*2) + (Math.min(numOfa , numOfb) * 2) + 1;
-            if(numOfa == numOfb)
-            {
-                length--;
-            }
-        }
-        else if((numOfab != 0) && (numOfa == 0))
-        {
-            length = (numOfab*2);
-        }
-        else if((numOfab == 0) && (numOfa != 0))
-        {
-            length = (Math.min(numOfa , numOfb) * 2) + 1;
-            if(numOfa == numOfb)
-            {
-                length--;
-            }
+            length = (2*numOfb) + (2*numOfab);
         }
         else
         {
-            length = 0;
+            if((numOfab != 0) && (numOfa != 0))
+            {
+                length = (numOfab*2) + (Math.min(numOfa , numOfb) * 2) + 1;
+            }
+            else if((numOfab != 0) && (numOfa == 0))
+            {
+                length = (numOfab*2);
+            }
+            else if((numOfab == 0) && (numOfa != 0))
+            {
+                length = (Math.min(numOfa , numOfb) * 2) + 1;
+            }
+            else
+            {
+                length = 0;
+            }
         }
         System.out.println(length);
     }
