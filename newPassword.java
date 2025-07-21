@@ -12,7 +12,7 @@ public class newPassword {
 
         while (newPassword.length() != lengthOfpassword)  /*Add characters until the new password reach the required length.*/
         {
-            if(k < numOfKcharacters)
+            if(k < numOfKcharacters) /*Add all K characters.*/
             {
                 newPassword += character.charAt(k); /*Add the k characters to the new paswword first.*/
                 k++;
