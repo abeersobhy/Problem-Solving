@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bcd2b2e-3f44-4730-880e-64a85c1ad25b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EffectiveApproach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DominoPiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/DominoPiling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/RegularBracketSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/RegularBracketSequence.class" afterDir="false" />
-    </list>
+    <list default="true" id="4bcd2b2e-3f44-4730-880e-64a85c1ad25b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
