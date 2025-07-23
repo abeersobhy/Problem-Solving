@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd657fae-9b30-41f5-a489-e9f91e24ded6" name="Changes" comment="">
+    <list default="true" id="4bcd2b2e-3f44-4730-880e-64a85c1ad25b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EffectiveApproach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DominoPiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/DominoPiling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/Horseshoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/Horseshoes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/RegularBracketSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/RegularBracketSequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,52 +40,41 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2zxGS42szYkplDh02HUrlhpCDsU" />
+  <component name="ProjectId" id="30CgQfJf2ATlAaBEIWVCdjjPn7K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Coins.executor": "Run",
-    "Application.EasyProblem.executor": "Run",
-    "Application.GeorgeAndAccommodation.executor": "Run",
-    "Application.Horseshoes.executor": "Run",
-    "Application.Hulk.executor": "Run",
-    "Application.RegularBracketSequence.executor": "Run",
-    "Application.SuffixThree.executor": "Run",
-    "Application.wayTooLongWords.executor": "Run",
+    "Application.EffectiveApproach.executor": "Run",
+    "Application.LovelyPalindromes.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd657fae-9b30-41f5-a489-e9f91e24ded6" name="Changes" comment="" />
-      <created>1752665309013</created>
+      <changelist id="4bcd2b2e-3f44-4730-880e-64a85c1ad25b" name="Changes" comment="" />
+      <created>1753136954650</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1752665309013</updated>
+      <updated>1753136954650</updated>
     </task>
     <servers />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/SuffixThree.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/EffectiveApproach.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
