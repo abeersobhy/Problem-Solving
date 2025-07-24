@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bcd2b2e-3f44-4730-880e-64a85c1ad25b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NextSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveApproach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DominoPiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/DominoPiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/RegularBracketSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/RegularBracketSequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EffectiveApproach.executor": "Run",
-    "Application.LovelyPalindromes.executor": "Run",
-    "Application.NextSession.executor": "Run",
-    "Application.SumOfDigits.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LovelyPalindromes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4bcd2b2e-3f44-4730-880e-64a85c1ad25b" name="Changes" comment="" />
@@ -64,16 +66,5 @@
       <updated>1753136954650</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/EffectiveApproach.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

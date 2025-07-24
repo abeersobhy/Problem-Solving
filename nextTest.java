@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class NextSession {
+public class nextTest {
 
     public static void main(String[] args)
     {
