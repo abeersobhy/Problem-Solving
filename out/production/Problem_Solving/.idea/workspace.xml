@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8de45544-807d-4747-b476-8c5ca9ec9c9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Supermarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minAndMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supermarket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.BurglarAndMatches.executor&quot;: &quot;Run&quot;,
     &quot;Application.BurglarAndMatches_V1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Supermarket.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;

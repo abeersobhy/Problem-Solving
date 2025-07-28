@@ -19,7 +19,7 @@ public class Supermarket {
         {
             prices[i][0] = (prices[i][0] / prices[i][1]); /*Replace the price with the price for 1 kilo.*/
         }
-
+        /* Initialize the minimumPriceForKilo with first price.*/
         minimumPriceForKilo = prices[0][0];
         for(int i = 1; i < numOfSupermarkets; i++)
         {
