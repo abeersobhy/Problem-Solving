@@ -10,7 +10,7 @@ public class threeNeighbors {
 
         double c = Math.ceil(Math.sqrt((a * a) + (b * b)));
 
-        long length = (long)Math.ceil(c / f); c
+        long length = (long)Math.ceil(c / f);
 
         System.out.println(length*length);
 
