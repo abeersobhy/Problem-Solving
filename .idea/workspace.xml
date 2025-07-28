@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8de45544-807d-4747-b476-8c5ca9ec9c9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/threeNeighbors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StonesOnTheTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/minAndMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/minAndMax.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   "keyToString": {
     "Application.BurglarAndMatches.executor": "Run",
     "Application.BurglarAndMatches_V1_1.executor": "Run",
+    "Application.StonesOnTheTable.executor": "Run",
     "Application.Supermarket.executor": "Run",
     "Application.minAndMax.executor": "Run",
     "Application.threeNeighbors.executor": "Run",
@@ -83,6 +83,16 @@
           <url>file://$PROJECT_DIR$/BurglarAndMatches.java</url>
           <line>32</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StonesOnTheTable.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StonesOnTheTable.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
