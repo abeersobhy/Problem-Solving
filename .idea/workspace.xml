@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6687863c-0a4a-4acb-b846-e9999830b6a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/VanyaAndFence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Games.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Games.executor": "Run",
     "Application.Presents.executor": "Run",
     "Application.RestoringPassword.executor": "Run",
     "Application.VanyaAndFence.executor": "Run",
