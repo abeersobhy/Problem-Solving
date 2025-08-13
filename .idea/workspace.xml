@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6687863c-0a4a-4acb-b846-e9999830b6a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BlackSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BearAndFindingCriminals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BearAndFindingCriminals.executor": "Run",
     "Application.BlackSquare.executor": "Run",
     "Application.Games.executor": "Run",
     "Application.Presents.executor": "Run",
@@ -66,5 +67,21 @@
       <updated>1753786780659</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BearAndFindingCriminals.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BearAndFindingCriminals.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
