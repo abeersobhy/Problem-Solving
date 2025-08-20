@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6687863c-0a4a-4acb-b846-e9999830b6a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Coins_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmericanFootball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coins_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coins_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem_Solving/Coins_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Problem_Solving/Coins_2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BearAndFindingCriminals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BlackSquare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Coins_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Games.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Presents.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RestoringPassword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VanyaAndFence.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AmericanFootball.executor": "Run",
+    "Application.BearAndFindingCriminals.executor": "Run",
+    "Application.BlackSquare.executor": "Run",
+    "Application.Coins_2.executor": "Run",
+    "Application.Games.executor": "Run",
+    "Application.Presents.executor": "Run",
+    "Application.RestoringPassword.executor": "Run",
+    "Application.VanyaAndFence.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Coins_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coins_2" />

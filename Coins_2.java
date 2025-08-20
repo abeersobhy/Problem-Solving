@@ -21,6 +21,8 @@ public class Coins_2
             }
             System.out.print(largestDivisor + " ");
             n = largestDivisor;
+
+            System.out.println();
         }
     }
 }
